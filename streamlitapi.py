@@ -1,10 +1,18 @@
 import joblib
 import streamlit as st
 import numpy as np
+import requests
+from io import BytesIO
 
 # Load trained model
-with open("XGBRegressor.pkl", "rb") as f:
-    model = joblib.load(f)
+def load_model():
+    url = 'https://huggingface.co/datasets/ioakowuah/HousingPricePrediction/resolve/main/XGBRegressor.pkl'
+    response = requests.get(url)
+    model = joblib.load(BytesIO(response.content))
+    return model
+
+model = load_model()
+
 
 # Feature mappings
 OverallQual_map = {
