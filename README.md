@@ -3,4 +3,11 @@ A simple yet challenging project, to predict the housing price based on certain 
 
 ![House Price Prediction](https://github.com/ioakowuah/Housing-Price-Prediction/blob/main/Houseforproject.jpg)
 
+##  Project Details
+
+- **Project Title:** House Price Prediction Report   
+- **Tool Used:** Python (Google Colab) 
+- **Dataset Source:**  
+- **Period Covered:** January 2020 – September 2024  (Dataset has October 2020 - December 2020 missing)
+
 
