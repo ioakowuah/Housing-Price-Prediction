@@ -11,4 +11,4 @@ A simple yet challenging project, to predict the housing price based on certain 
 - **Period Covered:** January 2020 – September 2024  (Dataset has October 2020 - December 2020 missing)
 
 
-- [website of Deployed Model:](https://housing-price-prediction-da5f69hsgswy7zqt5ayta4.streamlit.app/)
+- [Website of Deployed Model:](https://housing-price-prediction-da5f69hsgswy7zqt5ayta4.streamlit.app/)
