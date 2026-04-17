@@ -55,13 +55,12 @@ Python
 ### 🤖 Machine Learning Models
 
 The project applies regression techniques such as:
-
-
-1.       Linear Regression 
-2.             Ridge   
-3.      MLPRegressor 
-4.           XGBoost   
-5.      RandomForest
+- Linear Regression 
+- Ridge   
+- MLPRegressor 
+- XGBoost   
+- RandomForest
+  
 Steps:
 1. Train-test split
 2. Model training
