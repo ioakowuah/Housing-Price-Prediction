@@ -1,7 +1,18 @@
 # House Price Prediction
-A simple yet challenging project, to predict the housing price based on certain factors like house area, bedrooms, furnished, nearness to mainroad, etc. The dataset is small yet, it's complexity arises due to the fact that it has strong multicollinearity. Can you overcome these obstacles & build a decent predictive model?
+A machine learning project focused on predicting the housing price based on certain factors like house area, bedrooms, furnished, nearness to mainroad, etc. The dataset is small yet, it's complexity arises due to the fact that it has strong multicollinearity. Can you overcome these obstacles & build a decent predictive model?
 
 ![House Price Prediction](https://github.com/ioakowuah/Housing-Price-Prediction/blob/main/Houseforproject.jpg)
+
+##📌 Project Overview
+
+This project explores how different housing attributes influence property prices. Although the dataset is relatively small, it presents a key challenge: multicollinearity among features, making model building more interesting and realistic.
+
+The goal is to:
+
+- Perform exploratory data analysis (EDA)
+- Handle data quality issues
+- Build predictive models
+- Evaluate model performance
 
 ##  Project Details
 
@@ -12,3 +23,4 @@ A simple yet challenging project, to predict the housing price based on certain 
 
 
 - [Website of Deployed Model:](https://housing-price-prediction-da5f69hsgswy7zqt5ayta4.streamlit.app/)
+
