@@ -19,11 +19,11 @@ The goal is to:
 
 The dataset includes features such as:
 
--Area of the house
--Number of bedrooms and bathrooms
--Furnishing status
--Location factors (e.g., proximity to main road)
--Other housing characteristics
+- Area of the house
+- Number of bedrooms and bathrooms
+- Furnishing status
+- Location factors (e.g., proximity to main road)
+- Other housing characteristics
 
 - **Project Title:** House Price Prediction Report   
 - **Tool Used:** Python (Google Colab) 
