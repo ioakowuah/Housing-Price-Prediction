@@ -3,7 +3,7 @@ A machine learning project focused on predicting the housing price based on cert
 
 ![House Price Prediction](https://github.com/ioakowuah/Housing-Price-Prediction/blob/main/Houseforproject.jpg)
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project explores how different housing attributes influence property prices. Although the dataset is relatively small, it presents a key challenge: multicollinearity among features, making model building more interesting and realistic.
 
@@ -15,7 +15,7 @@ The goal is to:
 - Evaluate model performance
 
 ##  Project Details
-#📊 Dataset
+# 📊 Dataset
 
 The dataset includes features such as:
 
