@@ -67,6 +67,18 @@ Steps:
 3. Prediction
 4. Performance evaluation
 
+## 📈 Key Challenges
+- Small dataset size
+- Strong multicollinearity among features
+- Feature selection and transformation
+
+
+## 📌 Results & Insights
+- Identified key variables influencing house prices
+- Improved model stability using regularization (Ridge)
+- Demonstrated how EDA informs better modeling decisions
+
+
 - **Project Title:** House Price Prediction Report   
 - **Tool Used:** Python (Google Colab) 
 - **Dataset Source:**  
