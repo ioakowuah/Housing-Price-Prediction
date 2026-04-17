@@ -25,6 +25,27 @@ The dataset includes features such as:
 - Location factors (e.g., proximity to main road)
 - Other housing characteristics
 
+🔍 Exploratory Data Analysis (EDA)
+
+Key steps performed:
+
+- Data loading and inspection
+- Checking data types
+- Identifying missing values
+- Detecting duplicates
+- Visualizations using:
+- Histograms
+- Boxplots
+- Heatmaps (correlation analysis)
+- Scatter plots
+
+EDA helped uncover:
+
+- Feature relationships
+- Presence of multicollinearity
+- Distribution patterns
+
+
 - **Project Title:** House Price Prediction Report   
 - **Tool Used:** Python (Google Colab) 
 - **Dataset Source:**  
