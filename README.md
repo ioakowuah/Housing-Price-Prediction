@@ -79,11 +79,5 @@ Steps:
 - Demonstrated how EDA informs better modeling decisions
 
 
-- **Project Title:** House Price Prediction Report   
-- **Tool Used:** Python (Google Colab) 
-- **Dataset Source:**  
-- **Period Covered:** January 2020 – September 2024  (Dataset has October 2020 - December 2020 missing)
-
-
 - [Website of Deployed Model:](https://housing-price-prediction-da5f69hsgswy7zqt5ayta4.streamlit.app/)
 
