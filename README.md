@@ -52,6 +52,19 @@ Python
 - Matplotlib & Seaborn – visualization
 - Scikit-learn – machine learning models
 
+### 🤖 Machine Learning Models
+
+The project applies regression techniques such as:
+
+- Linear Regression
+- Ridge Regression (to address multicollinearity)
+- 
+Steps:
+1. Train-test split
+2. Model training
+3. Prediction
+4. Performance evaluation
+
 - **Project Title:** House Price Prediction Report   
 - **Tool Used:** Python (Google Colab) 
 - **Dataset Source:**  
