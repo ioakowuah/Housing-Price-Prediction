@@ -35,9 +35,9 @@ Key steps performed:
 - Detecting duplicates
 - Visualizations using:
 - Histograms
-- Boxplots
-- Heatmaps (correlation analysis)
-- Scatter plots
+  - Boxplots
+  - Heatmaps (correlation analysis)
+  - Scatter plots
 
 EDA helped uncover:
 
